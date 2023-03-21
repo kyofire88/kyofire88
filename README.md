@@ -6,7 +6,7 @@ I code with
 ![](https://img.shields.io/badge/C%2B%2B-VScode-yellowgreen)
 ![](https://img.shields.io/badge/Git-2.40.0-lightgrey)
 
-🌱 I’m currently learning CI/CD
+🌱 I’m currently learning CI/CD , Stable Diffusion
 
 
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyofire88&show_icons=true&theme=radical)
