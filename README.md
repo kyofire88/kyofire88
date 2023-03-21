@@ -1,4 +1,14 @@
-### Hi~ My name is Cen-Rui 👋
+### Hi~ I'm Cen-Rui 👋
+
+I code with
+![](https://img.shields.io/badge/python-3.9-orange)
+![](https://img.shields.io/badge/C%23-visual%20studio-yellow)
+![](https://img.shields.io/badge/C%2B%2B-VScode-yellowgreen)
+![](https://img.shields.io/badge/Git-2.40.0-lightgrey)
+
+🌱 I’m currently learning CI/CD
+
+
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyofire88&show_icons=true&theme=radical)
 <!--
 **kyofire88/kyofire88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
